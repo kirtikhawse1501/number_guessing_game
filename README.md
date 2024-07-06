@@ -1,1 +1,2 @@
 # number_guessing_game
+In this Number Guessing Game, the computer selects a random number within a specified range, and your goal is to guess that number. After each guess, the computer provides feedback indicating whether your guess was too high, too low, or correct. This interactive game continues until you correctly guess the number. It’s a fun and simple way to practice your problem-solving skills and enjoy a bit of friendly competition against the computer. The game can be easily customized by adjusting the range of numbers to make it more or less challenging.
